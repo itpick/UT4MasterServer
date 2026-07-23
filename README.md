@@ -4,6 +4,10 @@ This is a reimplementation of EpicGames servers, just enough to be able to serve
 
 If you want to play, go to https://ut4.timiimit.com/
 
+## Self-hosting
+
+Running your own master server, or connecting your own hubs and dedicated servers? See **[docs/SELF-HOSTING.md](docs/SELF-HOSTING.md)**.
+
 ## Contribution
 
 There is not much documentation on how to get started. I will create issues that need resolving as time goes on, but there are also a bunch of `// TODO` comments which tell what is still missing.
